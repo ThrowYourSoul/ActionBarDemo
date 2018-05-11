@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="text_main_title">#ff505050</color>
+    <color name="text_main_title2">#ff262626</color>
+    <color name="text_main_title_high_light">#ff0accca</color>
+    <color name="text_sub_title">#ffb4b4b4</color>
+    <color name="text_sub_title_2">#ff999999</color>
+    <color name="text_sub_title_3">#33262626</color>
+    <color name="window_bg_color">#fffafafa</color>
+</resources>
